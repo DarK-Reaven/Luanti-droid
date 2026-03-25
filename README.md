@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/DarK-Reaven/Luanti-droid/refs/heads/main/Luanti-droid.png
+![Alt text](https://raw.githubusercontent.com/DarK-Reaven/Luanti-droid/refs/heads/main/Luanti-droid.png) 
 
 
 Luanti-droid is a project aim to help deploy a full Luanti server
