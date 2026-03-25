@@ -4,7 +4,7 @@
 Luanti-droid is a project aim to help deploy a full Luanti server
 using Termux on an Android devide.
 
-My test device is an old Samsung A03s (SM037M) 2021
+My first test device was an old Samsung A03s (SM037M) 2021
 with the following specifications:
 
 Helio P35 CPU
